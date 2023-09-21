@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import matter from 'gray-matter';
 import { ref } from 'vue';
+import matter from 'gray-matter';
 import { marked } from 'marked';
 
 const props = defineProps({
