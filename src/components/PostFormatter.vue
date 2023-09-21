@@ -7,11 +7,20 @@ const props = defineProps({
     content: {
         type: String,
         required: true
+    },
+    preview: {
+        type: Boolean,
+        default: false
     }
 })
 
 const matterResult = ref(matter(props.content));
 const html = ref(marked.parse(matterResult.value.content));
+
+// if preview is true return content split after 300 characters
+if (props.preview) {
+    html.value = html.value.slice(0, 300);
+}
 
 </script>
 <template>
