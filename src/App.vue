@@ -10,10 +10,12 @@ function goToHome() {
 </script>
 
 <template>
-  <div @click="goToHome">
-    <h1>Home Page</h1>
+  <div class="flex flex-col items-center bg-cover bg-repeat background">
+    <div @click="goToHome" class="p-8">
+      <h1 class="text-5xl">VIAC's blog</h1>
+    </div>
+    <Suspense>
+      <router-view />
+    </Suspense>
   </div>
-  <Suspense>
-    <router-view />
-  </Suspense>
 </template>
