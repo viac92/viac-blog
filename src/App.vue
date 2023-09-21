@@ -1,13 +1,10 @@
 <script setup lang="ts">
-import BlogPage from './pages/BlogPage.vue';
+// import BlogPage from './views/BlogPage.vue';
 
 </script>
 
 <template>
   <Suspense>
-    <BlogPage />
+    <router-view />
   </Suspense>
 </template>
-
-<style scoped>
-</style>
