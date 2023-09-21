@@ -1,6 +1,11 @@
 <script setup lang="ts">
+import BlogPost from '../components/BlogPost.vue';
+
+const response = await fetch('../../content/posts/test-post.md')
+const content = await response.text()
+
 
 </script>
 <template>
-    <h1>Blog Page</h1>
+    <BlogPost :content="content"/>
 </template>
