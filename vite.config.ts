@@ -23,5 +23,5 @@ export default defineConfig({
     }
   },
   assetsInclude: ['**/*.md'],
-  base: process.env.NODE_ENV === 'production' ? '/viac_blog/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/viac-blog/' : '/',
 })

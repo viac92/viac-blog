@@ -1,8 +1,8 @@
 {
-  "name": "viac_blog",
+  "name": "viac-blog",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://viac92.github.io/viac_blog/",
+  "homepage": "https://viac92.github.io/viac-blog/",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
