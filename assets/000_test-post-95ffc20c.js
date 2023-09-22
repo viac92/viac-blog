@@ -1,0 +1,1 @@
+const t="/assets/000_test-post-924cbf51.md";export{t as default};
