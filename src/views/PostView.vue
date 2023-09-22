@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
-import PostFormatter from '../components/PostFormatter.vue';
+import PostFormatter from '@/components/PostFormatter.vue';
 
 const route = useRoute()
-const response = await fetch(`../../content/posts/${route.params.name}.md`)
-const post = await response.text()
+const response = await fetch(`/posts/${route.params.name}.md`)
 
+const post = await response.text()
 </script>
 <template>
     <div class="pt-6">

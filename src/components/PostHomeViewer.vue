@@ -3,7 +3,9 @@ import { useRouter } from 'vue-router'
 import PostFormatter from '@/components/PostFormatter.vue';
 
 const router = useRouter()
-const fonts = import.meta.glob('../../content/posts/*.md')
+const fonts = import.meta.glob('/public/posts/*.md')
+console.log(fonts);
+
 const paths = Object.keys(fonts)
 
 interface Post {
