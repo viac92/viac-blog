@@ -35,11 +35,12 @@ if (props.preview) {
                 text-3xl 
                 font-bold 
                 pb-7
+                mx-auto
             "
         >
             {{ matterResult.data.title }}
         </h1>
-        <p class="font-light pb-3">{{ matterResult.data.date }}</p>
+        <p class="font-light pb-3 mx-auto">{{ matterResult.data.date }}</p>
         <div v-if="$props.preview">
             <p class="prose">{{ matterResult.data.description }}</p>
         </div>
