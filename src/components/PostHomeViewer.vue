@@ -1,7 +1,6 @@
 <script setup lang="ts">
-import PostFormatter from '../components/PostFormatter.vue';
 import { useRouter } from 'vue-router'
-
+import PostFormatter from '@/components/PostFormatter.vue';
 
 const router = useRouter()
 const fonts = import.meta.glob('../../content/posts/*.md')
@@ -30,8 +29,27 @@ function goToPost(path: string) {
 </script>
 <template>
     <div v-for="post in contents" :key="post.path">
-        <div @click="goToPost(post.path)">
-            <PostFormatter :content="post.content" :preview="true"/>
+        <div @click="goToPost(post.path)" 
+            class="
+                flex 
+                flex-col 
+                p-4 
+                m-8
+                bg-zinc-50/80
+                shadow-md 
+                transition 
+                ease-in-out 
+                delay-150 
+                hover:cursor-pointer 
+                hover:-translate-y-1 
+                hover:scale-100 
+                hover:bg-zinc-200/80 
+                duration-300"
+        >
+            <PostFormatter 
+                :content="post.content" 
+                :preview="true"
+            />
         </div>
     </div>
 </template>
