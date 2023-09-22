@@ -30,7 +30,7 @@ function goToPost(path: string) {
 </script>
 <template>
     <div v-for="post in contents" :key="post.path">
-        <div @click="goToPost(post.path)" class="flex flex-col p-4 m-8 bg-green-50/50 border-4 border-green-200/50 shadow-md transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-100 hover:bg-green-200/50 duration-300">
+        <div @click="goToPost(post.path)" class="flex flex-col p-4 m-8 bg-green-50/50 border-4 border-green-200/50 shadow-md transition ease-in-out delay-150 hover:cursor-pointer hover:-translate-y-1 hover:scale-100 hover:bg-green-200/50 duration-300">
             <PostFormatter :content="post.content" :preview="true"/>
         </div>
     </div>
