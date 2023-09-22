@@ -22,5 +22,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  assetsInclude: ['**/*.md']
+  assetsInclude: ['**/*.md'],
+  base: process.env.NODE_ENV === 'production' ? '/viac_blog/' : '/',
 })
