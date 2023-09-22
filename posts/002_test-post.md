@@ -1,5 +1,5 @@
 ---
-title: Articolo Prova 000
+title: Articolo Prova 003
 date: 2019-02-06
 description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
 ---
@@ -25,7 +25,8 @@ blank.) Normal paragraphs should not be indented with spaces or tabs.
 The implication of the "one or more consecutive lines of text" rule is
 that Markdown supports "hard-wrapped" text paragraphs. This differs
 significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which tran
+Type's "Convert Line Breaks" option) which translate every line break
+character in a paragraph into a `<br />` tag.
 
 When you *do* want to insert a `<br />` break tag using Markdown, you
 end a line with two or more spaces, then type return.
