@@ -4,7 +4,7 @@ email: viacc@protonmail.com # email of site's author
 url: https://viac92.github.io/viac-blog/ # root address of the site
 baseurl: "/viac-blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Un blog dove scrivo di tutto e di niente, ma soprattutto di niente.
+  Un blog dove scrivo di tutto e di niente, ma soprattutto di niente. 
 
 permalink: /:slug.html
 
