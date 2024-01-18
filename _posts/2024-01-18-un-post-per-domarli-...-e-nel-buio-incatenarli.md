@@ -86,6 +86,6 @@ Questa è la fine[^7].
 [^2]: Abbraccio in toto la filosofia personale di uno dei miei idoli indiscussi ovvero Zerocalcare, quindi il riferimento stocazziano è da attribuire a questo.
 [^3]: Lo so, lo so, i reels, TikTok ecc sono uno strumenti e dipende come vengono utilizzati, possono esserci anche contenuti interessanti ma diciamo che invogliano un tipo di intrattenimento e informazione da fast food, permettetemi il paragone, che non mi fa impazzire. Potrebbe essere uno spunto per un futuro post.
 [^4]: Ad essere onesti non ho mai avuto una mia cameretta, la cameretta era condivisa con i miei fratelli. Ma da figlio maggior il pc di casa era, quello si, tutto mio.
-[^5]: Semicit della mia BFF che sicuramente capirà.
+[^5]: Semicit. della mia BFF che sicuramente capirà.
 [^6]: Se non riconosci questa citazione ti consiglio di lasciare immediatamente questo sito e andarti a vedere la trilogia di [Ritorno al Futuro](https://it.wikipedia.org/wiki/Ritorno_al_futuro_(trilogia))
 [^7]: [this is the end...](https://www.youtube.com/watch?v=BXqPNlng6uI)
