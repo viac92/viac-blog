@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Ciao a tutti/e e benvenuti/e sul mio blog! 
+Ciao a tutt* e benvenut* sul mio blog! 
 
 Per qualsiasi ragione voi siate giunti in questa sperduta pagina del world wide web sarà per me è un onore avervi come lettori e lettrici.
 
@@ -15,7 +15,7 @@ In primo luogo sono una persona con una vita niente male[^1] anche se sicurament
 
 Ma in cosa consiste questa mia vita? 
 
-Tralasciando le domande esistenziali, diciamo che la mia vita, almeno attualmente, consiste per la maggior parte del tempo nel lavorare come programmatore e fare da papà al mio bellissimo bimbo che tra qualche giorno copierà 6 anni! Come crescono veloci...
+Tralasciando le domande esistenziali, diciamo che la mia vita, almeno attualmente, consiste per la maggior parte del tempo nel lavorare come programmatore e fare da papà al mio bellissimo bimbo che tra qualche giorno compirà 6 anni! Come crescono veloci...
 
 Per il resto, nei piccoli ritagli di tempo che mi rimangono, cerco di portare avanti alcuni progetti e coltivare le mie passioni che in ordine sparso sono:
 
@@ -33,7 +33,7 @@ Ovviamente tutte queste passioni, essendo io una persona senza particolare talen
 
 Perché scrivere un blog nel 2024 se non voglio neanche passare per mitomane?
 
-Ovviamente per sentirmi un po' parte della mia cultura millennials e nello stesso tempo ripudiare quella dei reels di TickTok[^3] e dell'intrattenimento/informazione da swipe compulsivo. 
+Ovviamente per sentirmi un po' parte della mia cultura millennials e nello stesso tempo ripudiare quella dei reels di TikTok[^3] e dell'intrattenimento/informazione da swipe compulsivo. 
 Questo di conseguenza mi porta a trincerarmi dietro vecchi modi di comunicare ormai obsoleti (il blog) per sentirmi ancora come quando bazzicavo i forum di videogame ad inizio anni 2000 nel tepore della mia cameretta[^4].
 
 Ma le vere motivazioni, quelle serie, quelle leggermente più sensate sono due:
@@ -84,7 +84,7 @@ Questa è la fine[^7].
 
 [^1]: Citazione dal bellissimo fumetto di [Bryan Lee O'Malley](https://it.wikipedia.org/wiki/Bryan_Lee_O%27Malley) [Scott Pilgrim](https://it.wikipedia.org/wiki/Episodi_di_Scott_Pilgrim_-_La_serie#Scott_Pilgrim._Una_vita_niente_male).
 [^2]: Abbraccio in toto la filosofia personale di uno dei miei idoli indiscussi ovvero Zerocalcare, quindi il riferimento stocazziano è da attribuire a questo.
-[^3]: Lo so, lo so, i reels, TickTok ecc sono uno strumenti e dipende come vengono utilizzati, possono esserci anche contenuti interessanti ma diciamo che invogliano un tipo di intrattenimento e informazione da fast food, permettetemi il paragone, che non mi fa impazzire. Potrebbe essere uno spunto per un futuro post.
+[^3]: Lo so, lo so, i reels, TikTok ecc sono uno strumenti e dipende come vengono utilizzati, possono esserci anche contenuti interessanti ma diciamo che invogliano un tipo di intrattenimento e informazione da fast food, permettetemi il paragone, che non mi fa impazzire. Potrebbe essere uno spunto per un futuro post.
 [^4]: Ad essere onesti non ho mai avuto una mia cameretta, la cameretta era condivisa con i miei fratelli. Ma da figlio maggior il pc di casa era, quello si, tutto mio.
 [^5]: Semicit della mia BFF che sicuramente capirà.
 [^6]: Se non riconosci questa citazione ti consiglio di lasciare immediatamente questo sito e andarti a vedere la trilogia di [Ritorno al Futuro](https://it.wikipedia.org/wiki/Ritorno_al_futuro_(trilogia))
