@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Ciao a tutti e benvenuti sul mio blog! 
+Ciao a tutti/e e benvenuti/e sul mio blog! 
 
 Per qualsiasi ragione voi siate giunti in questa sperduta pagina del world wide web sarà per me un onore avervi come lettori e lettrici.
 
@@ -10,7 +10,7 @@ Il titolo di questo primo post è ovviamente una citazione al Signore degli Anel
 
 ## Presentazioni 
 
-Ed iniziamo proprio con le presentazioni, sono viac e come avrete visto nella home di questo blog sono anche altre cose.
+Ed iniziamo proprio con le presentazioni, sono viac e come avrete visto nella homepage di questo blog sono anche altre cose.
 In primo luogo sono una persona con una vita niente male[^1] anche se sicuramente con ampi margini di miglioramento soprattutto dal punto di vista materiale e si, se ve lo state chiedendo era un modo per dire che sono povero.
 
 Ma in cosa consiste questa mia vita? 
@@ -33,7 +33,8 @@ Ovviamente tutte queste passioni, essendo io una persona senza particolare talen
 
 Perché scrivere un blog nel 2024 se non voglio neanche passare per mitomane?
 
-Ovviamente per sentirmi un po' parte della mia cultura millennials e nello stesso tempo ripudiare quella dei reels di TickTok[^3] e dell'intrattenimento/informazione da swipe compulsivo per finire trincerato dietro vecchi modi di comunicare ormai obsoleti e sentirmi ancora come quando bazzicavo i forum di videogame ad inizio anni 2000 nel tepore della mia cameretta[^4].
+Ovviamente per sentirmi un po' parte della mia cultura millennials e nello stesso tempo ripudiare quella dei reels di TickTok[^3] e dell'intrattenimento/informazione da swipe compulsivo. 
+Questo di conseguenza mi porta a trincerarmi dietro vecchi modi di comunicare ormai obsoleti (il blog) per sentirmi ancora come quando bazzicavo i forum di videogame ad inizio anni 2000 nel tepore della mia cameretta[^4].
 
 Ma le vere motivazioni, quelle serie, quelle leggermente più sensate sono due:
 
