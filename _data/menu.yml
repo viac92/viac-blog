@@ -2,9 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  # - title: info
-  #   entries:
-  #     - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+  - title: In breve sono...
+    entries:
+      - title: un programmatore 💻
+      - title: un gamer 🎮
+      - title: quindi un nerd 👾
+      - title: ma anche un comunista 🟥
+      - title: e un vegano 🌱
+      - title: (non male eh)
 
   - title: all posts
     post_list:
