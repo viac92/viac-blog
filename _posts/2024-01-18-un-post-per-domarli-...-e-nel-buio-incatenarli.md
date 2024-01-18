@@ -4,7 +4,7 @@ layout: post
 
 Ciao a tutti/e e benvenuti/e sul mio blog! 
 
-Per qualsiasi ragione voi siate giunti in questa sperduta pagina del world wide web sarà per me un onore avervi come lettori e lettrici.
+Per qualsiasi ragione voi siate giunti in questa sperduta pagina del world wide web sarà per me è un onore avervi come lettori e lettrici.
 
 Il titolo di questo primo post è ovviamente una citazione al Signore degli Anelli, per gli amici LOTR, che non ha un gran senso però voleva essere un modo simpatico per sottolineare come in questo post si cercherà di dare una linea guida a questo blog, capendo insieme di cosa mi piacerebbe parlare e in generale per presentarmi un pochino.
 
