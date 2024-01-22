@@ -193,7 +193,7 @@ Anche qui, mi sento di non averlo ancora sviscerato a sufficienza per darne una 
 
 ## [Conclusioni](#conclusioni)
 
-Tante cose buttate tutte insieme nel pentola, però devo dire che a questo giro gli ingredienti sembrano tutti di qualità, vedremo un po' cosa ne uscirà fuori.
+Tante cose buttate tutte insieme nella pentola, però devo dire che a questo giro gli ingredienti sembrano tutti di qualità, vedremo un po' cosa ne uscirà fuori.
 Se qualche coraggioso è arrivato fino alla fine vi ringrazio per la vostra attenzione e vi do appuntamento, spero presto, sui vostri schermi con nuovi ingredienti per una nuova brodaglia, a presto!
 
 ---
