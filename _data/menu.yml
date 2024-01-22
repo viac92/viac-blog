@@ -11,19 +11,19 @@ entries:
       - title: e un vegano 🌱
       - title: (non male eh)
 
-  - title: posts
+  - title: Ultimi posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Tutti posts...
       show_more_url: archive.html
 
-  # - title: posts by category
-  #   post_list:
-  #     category: example2
-  #     show_more: true
-  #     show_more_text: See more posts...
-  #     show_more_url: example2-archive.html
+  - title: Cosa bolle in pentola
+    post_list:
+      category: cosa-bolle-in-pentola
+      show_more: true
+      show_more_text: Altri posts...
+      show_more_url: cosa-bolle-in-pentola-archive.html
 
   # - title: rss
   #   url: feed.xml
