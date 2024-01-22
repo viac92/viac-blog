@@ -37,7 +37,7 @@ In questa sede non mi voglio dilungare troppo su un'analisi approfondita, nel ca
 Voglio comunque fare delle brevissime considerazioni, per farvi capire di cosa si tratta, a che punto sono e se mi stanno piacendo.
 
 
-In **Stray** interpretiamo un bel gatto arancione, scusate ma non ho idea di che razza sia non mi intendo molto di animali domestici, che in un futuro post apocalittico dove gli esseri umani sono scoparsi dalla faccia della terra deve riuscire a tornare sulla superficie del pianeta dopo essere sprofondato in una metropoli cyberpunk sotterranea abitata da simpatici robot.
+In **Stray** interpretiamo un bel gatto arancione, scusate ma non ho idea di che razza sia non mi intendo molto di animali domestici, che in un futuro post apocalittico dove gli esseri umani sono scomparsi dalla faccia della terra deve riuscire a tornare sulla superficie del pianeta dopo essere sprofondato in una metropoli cyberpunk sotterranea abitata da simpatici robot.
 
 Il gioco è piuttosto breve, dovrebbe essere sulle 5 ore e me le sto godendo con molta calma anche perché lo sto giocando da steam deck[^4] sul letto prima di andare a dormire così da immergermi totalmente.
 
