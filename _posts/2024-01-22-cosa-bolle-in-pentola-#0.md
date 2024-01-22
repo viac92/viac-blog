@@ -113,7 +113,7 @@ Per quanto riguarda le serie tv sono in un momento del tutto revival.
 Approfittando un po' del sacrosanto sciopero dei lavoratori dello showbiz hollywoodiano[^13] sto recuperando due serie tv comiche che sono dei mostri sacri del genere, non c'è molto da dire se non sciagura a me per non averle viste prima, ma ognuno ha i suoi tempi o le priorità.
 
 La terza è un anime, anche questa super famosa ed apprezzata. 
-In questo periodo come noterete mi sto immergendo nella cultura giapponese, per motivi misteri ma non troppo sto scoprendo questo mondo che mi ero precluso per tutto questo tempo.
+In questo periodo come noterete mi sto immergendo nella cultura giapponese, per motivi misteriosi ma non troppo sto scoprendo questo mondo che mi ero precluso per tutto questo tempo.
 
 - Big Bang Theory[^14].
 - The Office[^15].
