@@ -158,7 +158,7 @@ Inoltre specifico che tendo sempre a leggere un romanzo di narrativa e un saggio
 - Storia del Bolscevismo n2[^22].
 
 **La trilogia della Guardia Cittadina** è un libro facente parte dell'universo del Mondo Disco[^23] di Terry Pratchett scrittore britannico che purtroppo ci ha lasciati nel 2015.
-È il primo libro che leggo della serie e se dovessi descriverlo in breve sono i Monty Python letterari calati in un mondo fantasy ricco di di magia e situazioni assurde, quindi in sunto un umorismo inglese di altissimo livello.
+È il primo libro che leggo della serie e se dovessi descriverlo in breve sono i Monty Python letterari calati in un mondo fantasy ricco di magia e situazioni assurde, quindi in sunto un umorismo inglese di altissimo livello.
 Voglio riportare la dedica ad inizio libro che trovo molto divertente e che personalmente ha subito invogliato alla lettura:
 
 > Potete chiamarli Guardie di Palazzo, Guardie Cittadine
@@ -210,7 +210,7 @@ Se qualche coraggioso è arrivato fino alla fine vi ringrazio per la vostra atte
 [^10]: Bottoms, regia di Emma Seligman, 20023, [link JustWatch](https://www.justwatch.com/it/film/bottoms)
 [^11]: Il Ragazzo e l'Airone, regia di Hayao Miyazaki, 2023, [link JustWatch](https://www.justwatch.com/it/film/kimitachi-wa-do-ikiru-ka)
 [^12]: Indiana Jones e il quadrante del destino, regia di James Mangold, 2023, [link JustWatch](https://www.justwatch.com/it/film/indiana-jones-5)
-[^13]: Argomento di cui vorrei parlare in un post dedicato, anche perché è stata una cosa molto grosso con un forte impatto sull'industria e ha dato modo anche a molti di vedere come azioni sindacali del genere possano fermare un intero settore multimiliardario.
+[^13]: Argomento di cui vorrei parlare in un post dedicato, anche perché è stata una cosa molto grossa con un forte impatto sull'industria e ha dato modo anche a molti di vedere come azioni sindacali del genere possano fermare un intero settore multimiliardario.
 [^14]: Big Bang Theory, 2007, [link JustWatch](https://www.justwatch.com/it/serie-tv/the-big-bang-theory).
 [^15]: The Office, 2005, [link JustWatch](https://www.justwatch.com/it/serie-tv/the-office).
 [^16]: Attack on Titan, 2013, [link JustWatch](https://www.justwatch.com/it/serie-tv/lattacco-dei-giganti)
