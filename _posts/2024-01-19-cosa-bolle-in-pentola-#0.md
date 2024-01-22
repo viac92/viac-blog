@@ -9,8 +9,8 @@ category: cosa-bolle-in-pentola
 - [Film](#film)
 - [Serie TV](#serie-tv)
 - [Fumetti](#fumetti)
-- [Giochi da Tavolo](#giochi-da-tavolo)
 - [Libri](#libri)
+- [Giochi da Tavolo](#giochi-da-tavolo)
 - [Conclusioni](#conclusioni)
 
 Iniziamo con una rubrica semplice e leggera che mi serve per tener traccia di quello che gioco, vedo, ascolto e leggo.
