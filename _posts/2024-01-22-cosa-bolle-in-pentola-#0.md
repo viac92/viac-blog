@@ -197,6 +197,15 @@ Tante cose buttate tutte insieme nella pentola, però devo dire che a questo gir
 Se qualche coraggioso è arrivato fino alla fine vi ringrazio per la vostra attenzione e vi do appuntamento, spero presto, sui vostri schermi con nuovi ingredienti per una nuova brodaglia, a presto!
 
 ---
+{: data-content="buy me a coffee"}
+
+Se questo articolo ti è piaciuto particolarmente o vorresti supportare il mio progetto potresti considerare di fare una piccola donazione, clicca sul pulsantone giallo qui sotto. 
+
+Grazie!
+
+<a href="https://www.buymeacoffee.com/viac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
 {: data-content="footnotes"}
 [^1]: Stray sviluppato da BlueTwelve Studio e pubblicato da Annapurna Interactive nel 2022, [link steam](https://store.steampowered.com/app/1332010/Stray/)
 [^2]: Baldur's Gate 3 sviluppato e pubblicato da Larian Studios nel 2023, [link steam](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)

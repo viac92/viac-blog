@@ -78,6 +78,15 @@ Questa è la fine[^7].
 
 (*ps a presto*)
 
+---
+{: data-content="buy me a coffee"}
+
+Se questo articolo ti è piaciuto particolarmente o vorresti supportare il mio progetto potresti considerare di fare una piccola donazione, clicca sul pulsantone giallo qui sotto. 
+
+Grazie!
+
+<a href="https://www.buymeacoffee.com/viac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 ---
 {: data-content="footnotes"}
