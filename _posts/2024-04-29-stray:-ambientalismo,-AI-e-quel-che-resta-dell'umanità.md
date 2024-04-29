@@ -5,12 +5,12 @@ category: videogame
 
 ## Indice
 - [Introduzione](#introduzione)
-- [Incipit e considerazioni sull'ambientalismo](#ambientalismo)
-- [AI, Umani e un sacrificio finale](#ai)
-- [Quel che resta dell'umanità](#umanita)
+- [Incipit e considerazioni sull'ambientalismo](#incipit-e-considerazioni-sullambientalismo)
+- [AI, Umani e un sacrificio finale](#ai-umani-e-un-sacrificio-finale)
+- [Quel che resta dell'umanità](#quel-che-resta-dellumanità)
 - [Conclusioni](#conclusioni)
 
-## [Introduzione](#introduzione)
+## Introduzione
 
 Iniziamo subito con il dire che questa non vuole essere una recensione ma solo delle riflessioni che mi sono venute in mente giocando a questa piccola, grande perla che è Stray[^1].
 
@@ -18,7 +18,7 @@ Per forza di cose in questo post andrò a fare alcuni spoiler quindi se non lo a
 
 Se avete osservazioni, correzioni o se volete contattarmi per qualunque altro motivo scrivetemi alla mia [mail](mailto:viacc@protonmail.com).
 
-## [Incipit e considerazioni sull'ambientalismo](#ambientalismo)
+## Incipit e considerazioni sull'ambientalismo
 
 La tematica che permea a mio parere l'intera opera di BlueTwelve Studio è sicuramente quella ambientalista.
 
@@ -38,7 +38,7 @@ Questo stacco che ci fa passare dalla lussureggiante superficie ai bassifondi di
 
 Ed è proprio qui che Stray ha uno dei suoi punti di forza, nei contrasti: la luce della superficie con l'oscurità e i neon della città abbandonata, la natura ricca di verdi piante con il metallo e il cemento dei complessi abitativi, il trionfo della vita organica con la resistenza di una vita artificiale.
 
-## [AI, Umani e un sacrificio finale](#ai)
+## AI, Umani e un sacrificio finale
 
 In Stray l'intelligenza artificiale non è più soggetta all'essere umano, un po' come la natura ma a differenza della natura l'AI è vincolata comunque alla visione del suo creatore.
 
@@ -59,7 +59,7 @@ Il robot che si sacrifica, a mio pare rappresenta la parte più nobile dell'esse
 
 Stray ci lascia inoltre una suggestione interessante, anche se non inedita, ovvero la possibile un giorno d'avere questo tipo di umanità in forma digitale, sia trasferita che in forma di AI.
 
-## [Quel che resta dell'umanità](#umanita)
+## Quel che resta dell'umanità
 
 Il gioco lascia una sensazione di vuoto costante, un vuoto una volta riempito dagli esseri umani che dietro di loro hanno lasciato cose bellissime ed uniche come i robot che ora popolano quel che resta delle loro abitazioni ma anche piaghe terribili come gli Zurg.
 
@@ -77,7 +77,7 @@ Questo a mio parere rimarca il fatto che non è un problema tecnologico, come in
 
 Sperando che nella realtà le cose vadano in modo diverso, penso che comunque il messaggio di Stray per quanto faccia vedere la fine di tutto, abbia comunque degli spunti di speranza, e ci ricorda che oltre agli esseri umani c'è qualcos'altro la fuori.
 
-## [Conclusioni](#conclusioni)
+## Conclusioni
 
 Stray è un gioco dalle meccaniche semplici che ci porta ad esplorare il mondo di gioco tramite una narrazione fluida e ambientale che fa da sottofondo a tutta la vicenda risultando estremamente coesa nel suo insieme.
 

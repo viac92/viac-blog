@@ -22,7 +22,7 @@ Ho scritto tendenzialmente perché non vi nascondo che ogni tanto i miei gusti h
 
 Ovviamente se avete idee, cose da vedere/leggere/ascoltare/giocare da suggerirmi non esitate a contattarmi, direttamente per chi mi conosce oppure alla mia [mail](mailto:viacc@protonmail.com).
 
-## [Videogame](#videogame)
+## Videogame
 
 Iniziamo con i videogame, in questo momento sto affrontando due giochi in particolare, due giochi tra l'altro agli antipodi ma molto interessanti.
 Uno è una piccola perla di qualche anno fa, l'altro è il gioco evento del 2023.
@@ -54,7 +54,7 @@ Che dire, sembra un capolavoro e non vedo l'ora di continuarlo, per ora ho prati
 Ultima cosa su BG3, devo capire come gestire meglio i combattimenti perché mi stanno mazzolando a dovere, ma lo accetto è comunque un livello di sfida sano e non troppo frustrante.
 Inoltre c'è da dire che faccio pena nei gdr a turni, forse sarà quello.
 
-## [Musica](#musica)
+## Musica
 
 Io tendenzialmente ascolto solo album interi, mi viene l'ansia ad ascoltare brani sfusi tranne in situazioni dove questo disturbo creerebbe disagio nelle persone con cui passo il tempo (vedi viaggi in macchina, cene ecc).
 
@@ -89,7 +89,7 @@ Mi recupererò la discografia in questi mesi, veramente una scoperta inaspettata
 Ultimi ma non ultimi gli UNIVERSITY che con il loro primo EP **Title Track** spaccano tutto.
 King Size Slime a ripetizione da settimane, super consigliati se avete bisogno di un po' di carica da punk/rock statunitense.
 
-## [Film](#film)
+## Film
 
 Gli ultimi tre film che ho visto sono stati:
 
@@ -106,7 +106,7 @@ Conclusione lo devo rivedere, per quel poco che posso dire, mi è sembrato un be
 
 **Indiana Jones**, non un gran film ma molto meglio di quella cafonata del teschio di cristallo, RIP Shia LaBeouf.
 
-## [Serie TV](#serie-tv)
+## Serie TV
 
 Per quanto riguarda le serie tv sono in un momento del tutto revival.
 
@@ -121,7 +121,7 @@ In questo periodo come noterete mi sto immergendo nella cultura giapponese, per 
 
 Non voglio proprio dire niente su queste tre serie tv, tanto molti di voi le conoscono già e nel caso quando le avrò finite tirerò le somme.
 
-## [Fumetti](#fumetti)
+## Fumetti
 
 Anche nella sezione fumetti siamo 2 a 1 per il Giappone.
 
@@ -145,7 +145,7 @@ Quindi mi sono preso il primo albo e come avevo sospettato mi è piaciuto parecc
 La scrittura ha un umorismo nerd spassoso e personaggi molto ben caratterizzati, mentre per l'aspetto artistico i disegni sono molto stilizzati riuscendo così a catturare l'essenza dei personaggi in pochi tratti.
 Tirerò le somme quando avrò finito di leggere tutta la serie, per ora un inizio niente male. 
 
-## [Libri](#libri)
+## Libri
 
 Nota sicuramente dolente è la backlog dei libri da leggere che qui non riporterò tutta, un po' per sintesi un po' per vergogna.
 Sinceramente io ho un problema con la lettura, un problema facilmente risolvibile, ma che necessita del pieno possesso e potere decisionale sul posizionamento di sedie/divani/poltrone/letti comodi abbinati ad una fonte di luce consona e facilmente accendibile.
@@ -177,7 +177,7 @@ Da precisare che sono 3 volumi, ognuno copre un diverso arco temporale della sto
 Inoltre se siete interessati all'argomento vi consiglio anche il libro I Dieci Giorni che Sconvolsero il Mondo di John Reed, attivista statunitense che si trovava in Russia durante i giorni della rivoluzione d'ottobre.
 È un libro unico proprio perché rappresenta la sola testimonianza di un occidentale durante quei giorni.
 
-## [Giochi da Tavolo](#giochi-da-tavolo)
+## Giochi da Tavolo
 
 Giochi da tavolo un po' lo stesso problema dei libri, purtroppo in questo periodo non ho giocato tantissimo non potendo invitare amici a casa e di conseguenza non potendo usufruire della mia discreta collezione di board game.
 Unico titolo che ho iniziato e giocato un po' in questo periodo con un minimo di continuità è
@@ -191,7 +191,7 @@ Ovviamente si deve avere un minimo d'interesse per il mondo Disney soprattutto p
 
 Anche qui, mi sento di non averlo ancora sviscerato a sufficienza per darne una valutazione definitiva, ma sicuramente la prima impressione è molto buona.
 
-## [Conclusioni](#conclusioni)
+## Conclusioni
 
 Tante cose buttate tutte insieme nella pentola, però devo dire che a questo giro gli ingredienti sembrano tutti di qualità, vedremo un po' cosa ne uscirà fuori.
 Se qualche coraggioso è arrivato fino alla fine vi ringrazio per la vostra attenzione e vi do appuntamento, spero presto, sui vostri schermi con nuovi ingredienti per una nuova brodaglia, a presto!
