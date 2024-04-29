@@ -25,6 +25,13 @@ entries:
       show_more_text: Altri posts...
       show_more_url: cosa-bolle-in-pentola-archive.html
 
+  - title: Videogame
+    post_list:
+      category: videogame
+      show_more: true
+      show_more_text: Altri posts...
+      show_more_url: videogame-archive.html
+
   # - title: rss
   #   url: feed.xml
   
