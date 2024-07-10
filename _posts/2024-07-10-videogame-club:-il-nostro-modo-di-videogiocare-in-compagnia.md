@@ -15,16 +15,17 @@ category: videogame
 
 I videogiochi sono sempre stati una parte importante della mia vita, mi hanno fatto vivere avventure, emozionare e a volte anche arrabbiare, ma tutta questa passione che nutro verso il mondo videoludico non sarebbe stata così forte se non ci fossero stati degli amici con cui condividerla.
 
-Prima dell'avvento del multiplayer online ci trovavamo da piccoli a giocare a casa di qualcuno, su schermi piccoli e spesso divisi in quadratini ancora più minuscoli per via della modalità splitscreen[^1], modalità che mi costringeva a utilizzare tutta la mia percezione spaziale dovendo elaborare più schermate alla volta per poter individuare i miei nemici virtuali e colpirli alla sprovvista.
+Prima dell'avvento del multiplayer online ci trovavamo da piccoli a giocare a casa di qualcuno, su schermi piccoli e spesso divisi in quadratini minuscoli per via della modalità splitscreen[^1]. 
+Questa modalità mi costringeva ad utilizzare al meglio la percezione spaziale dovendo elaborare più schermate alla volta per poter individuare i miei nemici virtuali e colpirli alla sprovvista.
 Modalità che senza ombra di dubbio ha aumentato i casi di strabismo nella mia generazione.
 
 Ma oltre al giocare insieme c'è sempre stata una voglia irrefrenabile di parlare di videogame, di raccontarci le nostre avventure e di condividere le nostre scoperte.
 La condivisione è forse per me uno degli aspetti più belli di tutto il videogiocare, confrontarsi con gli altri e far rivivere nella nostra mente e in quella dei nostri amici le storie che abbiamo vissuto ed amato.
 
-Poi con l'avvento e del multiplayer online tutta l'esperienza di condivisione di questa passione con i miei amici ha avuto un passaggio di livello.
+Poi con l'avvento del multiplayer online tutta l'esperienza di condivisione si è evoluta.
 Ho ancora impresse nella memoria le prime istanze di World of Warcraft[^2], le schermaglie su Age of Empires II[^3] e le sparatorie frenetiche di Unreal Tournament[^4] e Quake[^5] e soprattutto tutte le persone con le quali ho passato quei momenti di spensierata condivisione.
 
-Ora sono adulto, 32 anni sic, e il tempo per giocare purtroppo è poco o comunque non sufficiente a colmare la mia voglia, inoltre giocare con gli amici come un tempo risulta difficile, incastrare impegni, voglia di giocare ad un certo titolo di tutti non è facile, ma in qualche modo è possibile.
+Ora sono adulto, 32 anni sigh, e il tempo per giocare purtroppo è poco o comunque non sufficiente a colmare la mia voglia, inoltre giocare con gli amici come un tempo risulta difficile, incastrare impegni, voglia di giocare ad un certo titolo di tutti non è facile, ma in qualche modo è possibile.
 
 Con questo breve post voglio svelare il retroscena di un gruppo di amici che si sono organizzati per poter condividere la loro passione per i videogiochi, penso sia un sistema piuttosto inusuale ma comunque interessante che forse potrebbe applicarsi anche su altri gruppi di persone che hanno lo stesso obbiettivo.
 
