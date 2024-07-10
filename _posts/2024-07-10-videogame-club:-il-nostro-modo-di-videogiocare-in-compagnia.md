@@ -25,7 +25,7 @@ La condivisione è forse per me uno degli aspetti più belli di tutto il videogi
 Poi con l'avvento del multiplayer online tutta l'esperienza di condivisione si è evoluta.
 Ho ancora impresse nella memoria le prime istanze di World of Warcraft[^2], le schermaglie su Age of Empires II[^3] e le sparatorie frenetiche di Unreal Tournament[^4] e Quake[^5] e soprattutto tutte le persone con le quali ho passato quei momenti di spensierata condivisione.
 
-Ora sono adulto, 32 anni sigh, e il tempo per giocare purtroppo è poco o comunque non sufficiente a colmare la mia voglia, inoltre giocare con gli amici come un tempo risulta difficile, incastrare impegni, voglia di giocare ad un certo titolo di tutti non è facile, ma in qualche modo è possibile.
+Ora sono adulto, 32 anni sigh, e il tempo per giocare purtroppo è poco o comunque non sufficiente a colmare la mia voglia, inoltre giocare con gli amici come un tempo risulta difficile, incastrare impegni di tutti non è facile, ma in qualche modo è possibile.
 
 Con questo breve post voglio svelare il retroscena di un gruppo di amici che si sono organizzati per poter condividere la loro passione per i videogiochi, penso che il nostro sia un sistema piuttosto inusuale ma comunque interessante che forse potrebbe applicarsi anche su altri gruppi che hanno lo stesso obbiettivo.
 
