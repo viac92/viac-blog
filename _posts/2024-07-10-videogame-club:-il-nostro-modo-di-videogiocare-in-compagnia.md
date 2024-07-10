@@ -57,9 +57,10 @@ In questo modo abbiamo discusso 7 videogame, di seguito trovate i titoli e i vot
 Ho anche le registrazioni audio delle serate passate a discutere i vari giochi, forse un giorno con un po' di editing si potrebbe pure pensare di pubblicarle.
 
 ## Il Cambiamento 
-Con il passare del tempo e l'attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad un singolo videogame da discutere poi in un secondo momento non era più fattibile in tempi consoni.
+Con il passare del tempo e l'attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad un singolo videogame, da discutere poi in un secondo momento, non era più fattibile in tempi consoni.
 
-Ma il gruppo si era consolidato e non volevamo perdere tutto lo slancio che avevamo e ritornare a sentirci una volta al mese, quando andava bene, e a giocare in modo sporadico, da qui è nata l'organizzazione che attualmente vige ancora nel nostro Videogame Club.
+Ma il gruppo si era consolidato, non volevamo perdere tutto lo slancio che avevamo e ritornare a sentirci una volta al mese tornando per giocare solo in modo sporadico insieme. 
+È nata così l'organizzazione che attualmente vige nel nostro Videogame Club.
 
 # L'Organizzazione 
 Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattutto quelle che coinvolgono attività nerd, quindi mi sono messo a pensare insieme ai miei amici la soluzione migliore per poter giocare insieme online in modo continuativo potendo garantire comunque un minimo di libertà e flessibilità per tutti.
