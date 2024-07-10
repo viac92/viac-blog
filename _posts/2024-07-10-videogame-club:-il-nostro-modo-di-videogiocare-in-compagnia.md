@@ -79,7 +79,7 @@ Questa è la parte organizzativa un po' più interessante e che ha funzionato ne
 
 Aggiungo che la quasi totalità dei partecipanti al Club gioca su pc, più un membro su Xbox, quindi avevamo bisogno di un parco titoli condiviso e abbastanza ampio da soddisfare i gusti eclettici del nostro gruppo, la scelta è ricaduta in fine sull'abbonamento Xbox Game Pass[^14] che permette di avere un parco titoli condiviso tra tutti oltre a diversi giochi cross-platform con Xbox.
 
-Una volta identificato il bacino dal quale attingere ai titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembrano interessanti da giocare insieme. Inseriamo anche il numero di giocatori che possono giocare insieme (party size) di ogni titolo, se ha il cross-play o meno e altre informazioni più di carattere generale.
+Una volta identificato il bacino da cui attingere i titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembrano interessanti da giocare insieme. Inseriamo anche il numero di giocatori che possono giocare insieme (party size) di ogni titolo, se ha il cross-play o meno e altre informazioni più di carattere generale.
 Queste info servono per costituire la poll per la scelta settimanale del gioco per la Videogame Club Night.
 
 Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se è necessaria la funzionalità cross play, una volta ristretto il cerchio si crea una poll finale nella quale ogni componente presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare e infine il risultato dei voti decreta il videogame della serata.
