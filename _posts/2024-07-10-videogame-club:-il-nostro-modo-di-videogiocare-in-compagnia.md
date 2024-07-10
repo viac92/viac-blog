@@ -54,7 +54,6 @@ In questo modo abbiamo discusso 7 videogame, di seguito trovate i titoli e i vot
 | Dead Cells[^11] | 7,61 |
 | SUPERHOT[^12] | 7,96 |
 
-Nella tabella sopra trovate anche il voto finale, frutto della media di tutte le votazioni su ogni gioco.
 Ho anche le registrazioni audio delle serate passate a discutere i vari giochi, forse un giorno con un po' di editing si potrebbe pure pensare di pubblicarle.
 
 ## Il Cambiamento 
