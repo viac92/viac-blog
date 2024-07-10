@@ -67,7 +67,7 @@ Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattut
 
 Quindi per fare in modo che il progetto avesse successo dovevamo rispondere a due domande fondamentali ovvero, quando giocare e come giocare.
 
-Per il quando giocare abbiamo optato per la soluzione che, a mio avviso, è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare almeno una serata alla settimana in cui giocare insieme, nel nostro caso era stato scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupidoo ma a me piace darle il nome di Videogame Club Night.
+Per il quando giocare abbiamo optato per la soluzione che, a mio avviso, è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare almeno una serata alla settimana in cui giocare insieme, nel nostro caso era stato scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupido ma a me piace darle il nome di Videogame Club Night.
 
 Bisognava però gestire le eventuali assenze quindi sapere quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire quale titolo poter giocare.
 
@@ -85,7 +85,7 @@ In questo file vengono inseriti il numero di giocatori che possono giocare insie
 Queste info servono per costituire la poll per la scelta settimanale del gioco per la Videogame Club Night.
 
 Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se è necessaria la funzionalità cross play, una volta ristretto il cerchio si crea una poll finale nella quale ogni membro che sarà presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare.
-Infine il risultato dei della votazione decreta il videogame della serata.
+Infine il risultato della votazione decreta il videogame della serata.
 
 Per ricapitolare, il processo è il seguente:
 
