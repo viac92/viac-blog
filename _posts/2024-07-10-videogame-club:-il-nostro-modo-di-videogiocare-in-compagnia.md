@@ -15,14 +15,14 @@ category: videogame
 
 I videogiochi sono sempre stati una parte importante della mia vita, mi hanno fatto vivere avventure, emozionare e a volte anche disperare, ma tutta questa passione che nutro verso il mondo videoludico non sarebbe stata così forte se non ci fossero stati degli amici con cui condividerla.
 
-Prima dell'avvento del multiplayer online ci trovavamo da piccoli a giocare a casa di qualcuno, su schermi piccoli e spesso divisi in quadratini minuscoli per via della modalità splitscreen[^1]. 
+Prima dell'avvento del multiplayer online ci trovavamo da bambini a giocare a casa di qualcuno, su schermi piccoli e spesso divisi in quadratini minuscoli per via della modalità splitscreen[^1]. 
 Questa modalità mi costringeva ad utilizzare al meglio la percezione spaziale dovendo elaborare più schermate alla volta per poter individuare i miei nemici virtuali e colpirli alla sprovvista.
 Modalità che senza ombra di dubbio ha aumentato i casi di strabismo nella mia generazione.
 
 Ma oltre al giocare insieme c'è sempre stata una voglia irrefrenabile di parlare di videogame, di raccontarci le nostre avventure e di condividere le nostre scoperte.
-La condivisione è forse per me uno degli aspetti più belli di tutto il videogiocare, confrontarsi con gli altri e far rivivere nella nostra mente e in quella dei nostri amici le storie che abbiamo vissuto ed amato.
+La condivisione è forse per me uno degli aspetti più belli di tutto il videogiocare, confrontarsi con gli altri e far rivivere nella nostra mente e in quella dei nostri amici le storie che abbiamo giocato e amato
 
-Poi con l'avvento del multiplayer online tutta l'esperienza di condivisione si è evoluta.
+Con l'avvento del multiplayer online tutta l'esperienza di condivisione si è evoluta.
 Ho ancora impresse nella memoria le prime istanze di World of Warcraft[^2], le schermaglie su Age of Empires II[^3] e le sparatorie frenetiche di Unreal Tournament[^4] e Quake[^5] e soprattutto tutte le persone con le quali ho passato quei momenti di spensierata condivisione.
 
 Ora sono adulto, 32 anni sigh, e il tempo per giocare purtroppo è poco o comunque non sufficiente a colmare la mia voglia, inoltre giocare con gli amici come un tempo risulta difficile, incastrare impegni di tutti non è facile, ma in qualche modo è possibile.
@@ -36,7 +36,7 @@ C'è stato un periodo durante il covid nel quale io e i miei amici ci siamo ritr
 
 Ma come dicevo nell'introduzione io ho avuto sempre una particolare curiosità per quanto concerne la condivisione delle esperienze videoludiche, quindi prendendo spunto dai Club del libro ho proposto un Videogame Club.
 
-L'idea era quella di far proporre ad ogni membro del club un titoloe, attraverso una votazione,  sceglierne uno tra quelli proposti per poterlo giocare tutti insieme entro un lasso di tempo stabilito e a seconda della durata del gioco.
+L'idea era quella di far proporre ad ogni membro del club un titolo e attraverso una votazione, sceglierne uno tra quelli proposti per poterlo giocare tutti insieme entro un lasso di tempo stabilito e a seconda della durata del gioco.
 Infine si organizzava una serata con un moderatore scelto a caso e si discuteva del videogioco giocato da tutti basandosi su alcuni parametri.
 
 Per dare anche una nota divertente e per lasciare un ricordo del titolo giocato si davano dei voti ai vari aspetti del gioco, come grafica, game design, musiche e altre caratteristiche per noi rilevanti.
