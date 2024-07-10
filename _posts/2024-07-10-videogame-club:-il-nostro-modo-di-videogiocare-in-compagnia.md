@@ -67,9 +67,9 @@ Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattut
 
 Quindi per fare in modo che il progetto avesse successo dovevamo rispondere a due domande fondamentali ovvero, quando giocare e come giocare.
 
-Per il quando giocare abbiamo optato per la soluzione che a mio avviso è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare una serata alla settimana in cui giocare insieme, nel nostro caso era stata scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupidoo ma a me piace chiamarla la Videogame Club Night.
+Per il quando giocare abbiamo optato per la soluzione che a mio avviso è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare una serata alla settimana in cui giocare insieme, nel nostro caso era stato scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupidoo ma a me piace darle il nome di Videogame Club Night.
 
-Bisognava però gestire le eventuali assenze e capire in anticipo quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire anche quale titolo poter giocare.
+Bisognava però gestire le eventuali assenze quindi sapere quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire quale titolo poter giocare.
 
 Qui ci viene in aiuto il nostro gruppo su Telegram[^13] dove prima di ogni sessione viene fatta una poll nella quale le persone fanno presente se ci saranno.
 
