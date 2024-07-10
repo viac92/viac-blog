@@ -91,7 +91,7 @@ Come potete vedere se pur con alcune oscillazioni dovute purtroppo agli impegni 
 # Conclusioni
 Con questo post volevo raccontarvi l'esperienza collettiva che è il Videogame Club anche per ricordarvi che se vi piace qualcosa veramente, basta organizzarsi e il più delle volte si riescono a creare cose belle e serate indimenticabili.
 
-Ringrazio per tanto i miei amici di Club: Forno, Rose, Ale, Olly e Nixon che in questi mesi hanno reso i miei mercoledì avventurosi e pieni di gioia, riportandomi indietro nel tempo quando giocare insieme era l'unica cosa che contava.
+Ringrazio per tanto i miei amici di Club: Forno, Rose, Ale, Olly, Nixon e Scar che in questi mesi hanno reso i miei mercoledì avventurosi e pieni di gioia, riportandomi indietro nel tempo quando giocare insieme era l'unica cosa che contava.
 
 ---
 {: data-content="buy me a coffee"}
