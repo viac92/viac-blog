@@ -33,9 +33,12 @@ Ad ogni modo questa è la nostra storia.
 
 ## La nascita del Videogame Club
 C'è stato un periodo durante il covid nel quale io e i miei amici ci siamo ritrovati a casa, con un sacco di tempo libero, quindi spesso organizzavamo serate film o serie tv online, oppure ovviamente serate gaming.
+
 Ma come dicevo nell'introduzione io ho avuto sempre una particolare curiosità per quanto concerne la condivisione delle esperienze videoludiche, quindi prendendo spunto dai Club del libro ho proposto un Videogame Club.
+
 L'idea era quella di proporre ognuno un titolo, fare una votazione per sceglierne uno tra quelli proposti e giocarlo tutti entro un lasso di tempo stabilito a seconda della durata del gioco.
 Infine si organizzava una serata con un moderatore scelto a casa e si discuteva del videogioco giocato da tutti basandosi su alcuni parametri.
+
 Per dare anche una nota divertente e per lasciare un ricordo del titolo giocato si davano dei voti ai vari aspetti del gioco, come grafica, game design, musiche e tutte le altre caratteristiche oltre che un voto finale che dava ogni componente del Club.
 Poi i voti venivano sommati e si faceva una media che costituiva il responso ultimo del Club.
 
@@ -56,6 +59,7 @@ Ho anche le registrazioni audio delle serate passate a discutere i vari giochi, 
 
 ## Il Cambiamento 
 Con il passare del tempo e l'attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad un singolo videogame da discutere poi in un secondo momento non era più fattibile in tempi consoni.
+
 Ma il gruppo si era consolidato e non volevamo perdere tutto lo slancio che avevamo e ritornare a sentirci una volta al mese, quando andava bene, e a giocare in modo sporadico, da qui è nata l'organizzazione che attualmente vige ancora nel nostro Videogame Club.
 
 # L'Organizzazione 
@@ -64,15 +68,20 @@ Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattut
 Quindi per fare in modo che il progetto avesse successo dovevamo rispondere a due domande fondamentali ovvero, quando giocare e come giocare.
 
 Per il quando giocare abbiamo optato per la soluzione che a mio avviso è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa ovvero fissare una serata alla settimana in cui giocare insieme, nel nostro caso era stata scelto il mercoledì dalle 21:00 in poi e che si sarebbe chiamata Videogame Club Night.
+
 Bisognava però gestire le eventuali assenze e capire in anticipo quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire anche quale titolo poter giocare.
+
 Qui ci viene in aiuto il nostro gruppo su Telegram[^13] dove dopo ogni sessione viene fatta una poll nella quale le persone fanno presente se ci saranno la prossima volta.
+
 Qualche giorno prima di mercoledì, tendenzialmente nella giornata di lunedì, la poll viene chiusa e si conosco allora i partecipanti, quindi si passa a rispondere alla seconda parte, il come.
 
 Questa è la parte organizzativa un po' più interessante e che ha funzionato negli ultimi 9 mesi di attività del Club.
+
 Aggiungo che la quasi totalità dei partecipanti al Club gioca su pc, più un membro su Xbox, quindi avevamo bisogno di un parco titoli condiviso e abbastanza ampio da soddisfare i gusti eclettici del nostro gruppo, la scelta è ricaduta in fine sull'abbonamento Xbox Game Pass[^14] che permette di avere un parco titoli condiviso tra tutti oltre a diversi giochi cross-platform con Xbox.
 
 Una volta identificato il bacino dal quale attingere ai titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembravano interessanti da giocare insieme. Inseriamo anche numero di giocatori per ogni titolo, se ha il cross play o meno e altre informazioni più di carattere generale.
 Queste info servono per costituire la poll per la scelta settimanale del gioco per la Videogame Club Night.
+
 Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se era necessaria la funzionalità cross play, una volta ristretto il cerchio si crea un poll finale nella quale ogni componente presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare e infine il risultato dei voti decreta il videogame da giocare.
 
 Per ricapitolare, il processo è il seguente:
