@@ -59,21 +59,21 @@ Ho anche le registrazioni audio delle serate passate a discutere i vari giochi, 
 ## Il Cambiamento 
 Con il passare del tempo e l’attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad ogni videogame, in termini di gioco e discussione, era sempre meno.
 
-Ma il gruppo si era consolidato, non volevamo perdere tutto lo slancio che avevamo tornando a sentirci una volta al mese e giocare solo in modo sporadico insieme. 
+Ma il gruppo si era consolidato, non volevamo perdere tutto lo slancio che avevamo guadagnato tornando a sentirci una volta al mese e a giocare solo in modo sporadico insieme. 
 È nata così l'organizzazione che attualmente vige nel nostro Videogame Club.
 
 # L'Organizzazione 
-Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattutto quelle che coinvolgono attività nerd, quindi mi sono messo a pensare insieme ai miei amici la soluzione migliore per poter giocare insieme online in modo continuativo potendo garantire comunque un minimo di libertà e flessibilità per tutti.
+Si, lo ammetto, nella vita io sono ossessionato nell'organizzare cose, soprattutto quelle che coinvolgono attività nerd, quindi abbiamo iniziato a pensare ad una soluzione che ci permettesse di  giocare online in modo continuativo, garantendo comunque libertà e flessibilità a tutti.
 
 Quindi per fare in modo che il progetto avesse successo dovevamo rispondere a due domande fondamentali ovvero, quando giocare e come giocare.
 
-Per il quando giocare abbiamo optato per la soluzione che a mio avviso è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare almeno una serata alla settimana in cui giocare insieme, nel nostro caso era stato scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupidoo ma a me piace darle il nome di Videogame Club Night.
+Per il quando giocare abbiamo optato per la soluzione che, a mio avviso, è l'unica possibile per mantenere continuità in qualunque hobby o attività che ci interessa, ovvero fissare almeno una serata alla settimana in cui giocare insieme, nel nostro caso era stato scelto il mercoledì dalle 21:00 in poi. So che suona un po' stupidoo ma a me piace darle il nome di Videogame Club Night.
 
 Bisognava però gestire le eventuali assenze quindi sapere quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire quale titolo poter giocare.
 
 Qui ci viene in aiuto il nostro gruppo su Telegram[^13] dove prima di ogni sessione viene fatta una poll nella quale le persone fanno presente se ci saranno.
 
-Qualche giorno prima di mercoledì, tendenzialmente nella giornata di lunedì, la poll viene chiusa e si conoscono i partecipanti della settimane, quindi si passa a rispondere al seconda problema, il come.
+Qualche giorno prima di mercoledì, tendenzialmente nella giornata di lunedì, la poll viene chiusa e si conoscono i partecipanti della settimana, quindi si passa a rispondere al seconda problema, il come.
 
 Questa è la parte organizzativa un po' più interessante e che ha funzionato negli ultimi 9 mesi di attività del Club.
 
@@ -81,7 +81,7 @@ Aggiungo che la quasi totalità dei partecipanti al Club gioca su pc, più un me
 
 Una volta identificato il bacino da cui attingere i titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembrano interessanti da giocare insieme. 
 
-In questo file vengono inseriti Inseriamo anche il numero di giocatori che possono giocare insieme (party size), se ha il cross-play o meno e altre informazioni di carattere più generale.
+In questo file vengono inseriti il numero di giocatori che possono giocare insieme (party size), se ha il cross-play o meno e altre informazioni di carattere più generale.
 Queste info servono per costituire la poll per la scelta settimanale del gioco per la Videogame Club Night.
 
 Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se è necessaria la funzionalità cross play, una volta ristretto il cerchio si crea una poll finale nella quale ogni membro che sarà presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare.
