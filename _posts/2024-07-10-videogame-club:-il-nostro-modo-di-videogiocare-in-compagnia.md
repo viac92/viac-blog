@@ -71,18 +71,18 @@ Per il quando giocare abbiamo optato per la soluzione che a mio avviso è l'unic
 
 Bisognava però gestire le eventuali assenze e capire in anticipo quante persone sarebbero state presenti ogni serata con un po' di anticipo in modo da capire anche quale titolo poter giocare.
 
-Qui ci viene in aiuto il nostro gruppo su Telegram[^13] dove dopo ogni sessione viene fatta una poll nella quale le persone fanno presente se ci saranno la prossima volta.
+Qui ci viene in aiuto il nostro gruppo su Telegram[^13] dove prima di ogni sessione viene fatta una poll nella quale le persone fanno presente se ci saranno.
 
-Qualche giorno prima di mercoledì, tendenzialmente nella giornata di lunedì, la poll viene chiusa e si conosco allora i partecipanti, quindi si passa a rispondere alla seconda parte, il come.
+Qualche giorno prima di mercoledì, tendenzialmente nella giornata di lunedì, la poll viene chiusa e si conoscono i partecipanti della settimane, quindi si passa a rispondere al seconda problema, il come.
 
 Questa è la parte organizzativa un po' più interessante e che ha funzionato negli ultimi 9 mesi di attività del Club.
 
 Aggiungo che la quasi totalità dei partecipanti al Club gioca su pc, più un membro su Xbox, quindi avevamo bisogno di un parco titoli condiviso e abbastanza ampio da soddisfare i gusti eclettici del nostro gruppo, la scelta è ricaduta in fine sull'abbonamento Xbox Game Pass[^14] che permette di avere un parco titoli condiviso tra tutti oltre a diversi giochi cross-platform con Xbox.
 
-Una volta identificato il bacino dal quale attingere ai titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembravano interessanti da giocare insieme. Inseriamo anche numero di giocatori per ogni titolo, se ha il cross play o meno e altre informazioni più di carattere generale.
+Una volta identificato il bacino dal quale attingere ai titoli, di comune accordo è stato redatto un file excel condiviso in cui ogni membro del Club può inserire tutti i titoli che sembrano interessanti da giocare insieme. Inseriamo anche il numero di giocatori che possono giocare insieme (party size) di ogni titolo, se ha il cross-play o meno e altre informazioni più di carattere generale.
 Queste info servono per costituire la poll per la scelta settimanale del gioco per la Videogame Club Night.
 
-Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se era necessaria la funzionalità cross play, una volta ristretto il cerchio si crea un poll finale nella quale ogni componente presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare e infine il risultato dei voti decreta il videogame da giocare.
+Ovvero tenuto conto del numero di persone presenti, si va a filtrare il file inserendo i giocatori presenti e se è necessaria la funzionalità cross play, una volta ristretto il cerchio si crea una poll finale nella quale ogni componente presente per la sessione da 3 preferenze sui titoli che vorrebbe giocare e infine il risultato dei voti decreta il videogame della serata.
 
 Per ricapitolare, il processo è il seguente:
 
@@ -90,18 +90,18 @@ Per ricapitolare, il processo è il seguente:
 - Poll dei partecipanti per la scelta gioco (da lunedì a martedì)
 - Videogame Club Night (il mercoledì)
 
-Questo processo di ripete tutte le settimane con ovviamente un costante aggiornamento del file dei giochi.
-Aggiungo anche per precisare che a volte vengono proposti anche giochi free to play o altri che magari sono presenti nelle librerie di tutti.
+Questo processo si ripete tutte le settimane con ovviamente un costante aggiornamento del file dei giochi.
+Aggiungo anche, per precisare, che a volte vengono proposti anche giochi free to play o altri che magari sono presenti nelle librerie di tutti.
 
 # Risultati
 I risultati sono stati in questi mesi indubbiamente positivi, inoltre ho creato questo [piccolo sito web](https://videogameclub.it/) dove potete dare un occhiate ai titoli che abbiamo giocato insieme e alle presenze nel corso del tempo.
 
-Come potete vedere se pur con alcune oscillazioni dovute purtroppo agli impegni della vita, i dati parlano comunque di un successo e al momento in cui scrivo stiamo per festeggiare la trentesima Videogame Club Night!
+Come potete vedere se pur con alcune oscillazioni dovute purtroppo agli impegni della vita, i dati parlano di un successo e al momento in cui scrivo stiamo per festeggiare la trentesima Videogame Club Night!
 
 # Conclusioni
-Con questo post volevo raccontarvi l'esperienza collettiva che è il Videogame Club anche per ricordarvi che se vi piace qualcosa veramente, basta organizzarsi e il più delle volte si riescono a creare cose belle e serate indimenticabili.
+Con questo post volevo raccontarvi l'esperienza collettiva che è il Videogame Club anche per ricordarvi che se vi piace qualcosa veramente, basta organizzarsi e il più delle volte si riescono a creare situazioni belle e serate indimenticabili.
 
-Ringrazio per tanto i miei amici di Club: Forno, Rose, Ale, Olly, Nixon e Scar che in questi mesi hanno reso i miei mercoledì avventurosi e pieni di gioia, riportandomi indietro nel tempo quando giocare insieme era l'unica cosa che contava.
+Ringrazio i miei amici di Club: Forno, Rose, Ale, Olly, Nixon e Scar che in questi mesi hanno reso i miei mercoledì avventurosi e pieni di gioia, riportandomi indietro nel tempo quando giocare insieme era l'unica cosa che contava.
 
 ---
 {: data-content="buy me a coffee"}
