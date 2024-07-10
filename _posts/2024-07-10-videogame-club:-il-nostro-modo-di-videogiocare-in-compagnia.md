@@ -13,7 +13,7 @@ category: videogame
 
 ## Introduzione
 
-I videogiochi sono sempre stati una parte importante della mia vita, mi hanno fatto vivere avventure, emozionare e a volte anche arrabbiare, ma tutta questa passione che nutro verso il mondo videoludico non sarebbe stata così forte se non ci fossero stati degli amici con cui condividerla.
+I videogiochi sono sempre stati una parte importante della mia vita, mi hanno fatto vivere avventure, emozionare e a volte anche disperare, ma tutta questa passione che nutro verso il mondo videoludico non sarebbe stata così forte se non ci fossero stati degli amici con cui condividerla.
 
 Prima dell'avvento del multiplayer online ci trovavamo da piccoli a giocare a casa di qualcuno, su schermi piccoli e spesso divisi in quadratini minuscoli per via della modalità splitscreen[^1]. 
 Questa modalità mi costringeva ad utilizzare al meglio la percezione spaziale dovendo elaborare più schermate alla volta per poter individuare i miei nemici virtuali e colpirli alla sprovvista.
