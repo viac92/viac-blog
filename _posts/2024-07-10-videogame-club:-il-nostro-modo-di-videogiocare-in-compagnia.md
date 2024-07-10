@@ -103,6 +103,8 @@ Con questo post volevo raccontarvi l'esperienza collettiva che è il Videogame C
 
 Ringrazio i miei amici di Club: Forno, Rose, Ale, Olly, Nixon e Scar che in questi mesi hanno reso i miei mercoledì avventurosi e pieni di gioia, riportandomi indietro nel tempo quando giocare insieme era l'unica cosa che contava.
 
+Ringrazio anche Anna per aver corretto questa spaghettata di parole alla rinfusa. 
+
 ---
 {: data-content="buy me a coffee"}
 
