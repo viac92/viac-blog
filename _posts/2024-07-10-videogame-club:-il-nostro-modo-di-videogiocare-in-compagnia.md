@@ -39,7 +39,7 @@ Ma come dicevo nell'introduzione io ho avuto sempre una particolare curiosità p
 L'idea era quella di far proporre ad ogni membro del club un titoloe, attraverso una votazione,  sceglierne uno tra quelli proposti per poterlo giocare tutti insieme entro un lasso di tempo stabilito e a seconda della durata del gioco.
 Infine si organizzava una serata con un moderatore scelto a caso e si discuteva del videogioco giocato da tutti basandosi su alcuni parametri.
 
-Per dare anche una nota divertente e per lasciare un ricordo del titolo giocato si davano dei voti ai vari aspetti del gioco, come grafica, game design, musiche e tutte le altre caratteristiche oltre che un voto finale che dava ogni componente del Club.
+Per dare anche una nota divertente e per lasciare un ricordo del titolo giocato si davano dei voti ai vari aspetti del gioco, come grafica, game design, musiche e altre caratteristiche per noi rilevanti.
 Poi i voti venivano sommati e si faceva una media che costituiva il responso ultimo del Club.
 
 In questo modo abbiamo discusso 7 videogame, di seguito trovate i titoli e i voti finali che sono il risultato delle varie discussioni.
@@ -57,9 +57,9 @@ In questo modo abbiamo discusso 7 videogame, di seguito trovate i titoli e i vot
 Ho anche le registrazioni audio delle serate passate a discutere i vari giochi, forse un giorno con un po' di editing si potrebbe pure pensare di pubblicarle.
 
 ## Il Cambiamento 
-Con il passare del tempo e l'attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad un singolo videogame, da discutere poi in un secondo momento, non era più fattibile in tempi consoni.
+Con il passare del tempo e l’attenuarsi delle restrizioni dovute al covid gli impegni sono tornati ad essere pressanti e il tempo da dedicare ad ogni videogame, in termini di gioco e discussione, era sempre meno.
 
-Ma il gruppo si era consolidato, non volevamo perdere tutto lo slancio che avevamo e ritornare a sentirci una volta al mese tornando per giocare solo in modo sporadico insieme. 
+Ma il gruppo si era consolidato, non volevamo perdere tutto lo slancio che avevamo tornando a sentirci una volta al mese e giocare solo in modo sporadico insieme. 
 È nata così l'organizzazione che attualmente vige nel nostro Videogame Club.
 
 # L'Organizzazione 
