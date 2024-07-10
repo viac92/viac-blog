@@ -36,8 +36,8 @@ C'è stato un periodo durante il covid nel quale io e i miei amici ci siamo ritr
 
 Ma come dicevo nell'introduzione io ho avuto sempre una particolare curiosità per quanto concerne la condivisione delle esperienze videoludiche, quindi prendendo spunto dai Club del libro ho proposto un Videogame Club.
 
-L'idea era quella di proporre ognuno un titolo, fare una votazione per sceglierne uno tra quelli proposti e giocarlo tutti entro un lasso di tempo stabilito a seconda della durata del gioco.
-Infine si organizzava una serata con un moderatore scelto a casa e si discuteva del videogioco giocato da tutti basandosi su alcuni parametri.
+L'idea era quella di far proporre ad ogni membro del club un titoloe, attraverso una votazione,  sceglierne uno tra quelli proposti per poterlo giocare tutti insieme entro un lasso di tempo stabilito e a seconda della durata del gioco.
+Infine si organizzava una serata con un moderatore scelto a caso e si discuteva del videogioco giocato da tutti basandosi su alcuni parametri.
 
 Per dare anche una nota divertente e per lasciare un ricordo del titolo giocato si davano dei voti ai vari aspetti del gioco, come grafica, game design, musiche e tutte le altre caratteristiche oltre che un voto finale che dava ogni componente del Club.
 Poi i voti venivano sommati e si faceva una media che costituiva il responso ultimo del Club.
